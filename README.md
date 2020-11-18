@@ -1,2 +1,3 @@
 # AUTOMATIC-REGION-SELECTION-FOR-OBJECTIVE-SHARPNESS-ASSESSMENT-OF-MOBILE-DEVICE-PHOTOS
+The framework of our local region selection algorithm.
 ![image](https://github.com/superuct/AUTOMATIC-REGION-SELECTION-FOR-OBJECTIVE-SHARPNESS-ASSESSMENT-OF-MOBILE-DEVICE-PHOTOS/blob/main/figures/autoRegionS.pdf)
